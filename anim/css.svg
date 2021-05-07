@@ -1,0 +1,10 @@
+
+    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <title>css Icons</title>
+    <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="99%" fill="none" stroke-opacity="1"/>
+    <svg width="48" height="48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M41 5H7l3 34 14 4 14-4 3-34z" fill="#0277BD"/><path d="M24 8v31.9l11.2-3.2L37.7 8H24z" fill="#039BE5"/><path d="M33.1 13H24v4h4.9l-.3 4H24v4h4.4l-.3 4.5-4.1 1.4v4.2l7.9-2.6.7-11.5.5-8z" fill="#fff"/><path d="M24 13v4h-8.9l-.3-4H24zm-4.6 8l.2 4H24v-4h-4.6zm.4 6h-4l.3 5.5 7.9 2.6v-4.2l-4.1-1.4-.1-2.5z" fill="#EEE"/></svg>
+    <path d="M29.2516 33.093C33.73 30.5067 37.4716 27.0685 39.6534 23.5348C41.8352 20.0011 42.2785 16.6613 40.8857 14.2501C40.7862 14.0779 40.8277 13.8337 41.0009 13.5712C41.1742 13.3088 41.465 13.0496 41.8095 12.8506C42.154 12.6517 42.5239 12.5293 42.8378 12.5104C43.1518 12.4915 43.384 12.5776 43.4835 12.7499C44.8763 15.161 44.1593 18.6589 41.4903 22.4739C38.8213 26.289 34.4189 30.1088 29.2516 33.093V33.093Z" fill="gold">
+                      <animateTransform attributeName="transform" type="rotate" from="180 0 0" to="0 0 0" dur="1s" repeatCount="indefinite" />
+                      </path>
+    
+    </svg>
